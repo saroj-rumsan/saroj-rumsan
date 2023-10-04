@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**SAROJ7/SAROJ7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saroj-rumsan/saroj-rumsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -82,11 +82,11 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=saroj7&show_icons=true&theme=dark&locale=en" alt="saroj7" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saro7&show_icons=true&theme=dark&locale=en&layout=compact" alt="saroj7" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=saroj-rumsan&show_icons=true&theme=dark&locale=en" alt="saroj-rumsan" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saro7&show_icons=true&theme=dark&locale=en&layout=compact" alt="saroj-rumsan" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saroj7&theme=dark"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saroj-rumsan&theme=dark"/></p>
   </div>
