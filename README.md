@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saroj7&theme=dark" alt="saroj7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saroj7&theme=dark"/></p>
   </div>
